@@ -1,30 +1,22 @@
-INFO:     Started server process [1351]
+INFO:     Started server process [4409]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-ERROR:    [Errno 98] error while attempting to bind on address ('0.0.0.0INFO:     76.103.236.53:0 - "GET / HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33636 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33642 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33656 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33670 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33684 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33700 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33710 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33724 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33750 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33734 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33756 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:33758 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:57518 - "GET /openapi.json HTTP/1.1" 200 OK
-INFO:     100.64.4.167:57526 - "GET /openapi.json HTTP/1.1" 200 OK
-INFO:     100.64.4.167:54198 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:54194 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:54202 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:54206 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:54220 - "GET /openapi.json HTTP/1.1" 200 OK
-INFO:     100.64.4.167:54234 - "GET /openapi.json HTTP/1.1" 200 OK
-INFO:     100.64.4.167:60780 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:60792 - "HEAD /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:60806 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:60818 - "GET /docs HTTP/1.1" 200 OK
-INFO:     100.64.4.167:60834 - "GET /openapi.json HTTP/1.1" 200 OK
-INFO:     100.64.4.167:60836 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     Uvicorn running on http://0.0.0.0:3001 (Press CTRL+C to quit)
+INFO:     100.64.4.167:38370 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:38378 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:38388 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:38394 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:38398 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:38408 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35100 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35088 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35102 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35108 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35116 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35130 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35142 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35146 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35156 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:35168 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:60324 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:60332 - "GET /openapi.json HTTP/1.1" 200 OK
